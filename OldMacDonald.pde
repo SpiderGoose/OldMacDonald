@@ -1,6 +1,6 @@
-
+Farm Lowell;
 void setup()
 {
-	//your variable declarations here
+	Lowell = new Farm();
+	Lowell.animalSounds();
 }
-
